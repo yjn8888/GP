@@ -10,6 +10,8 @@
     <modules>
         <module>Design-Pattern</module>
         <module>Algorithms-DataStructures</module>
+        <module>jvm</module>
+        <module>juc</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
